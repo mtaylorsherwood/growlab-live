@@ -2,6 +2,8 @@
 
 This is the repo for the updating image from my growlab.
 
+The live preview is currently paused.
+
 [Live Preview](https://mtaylorsherwood.github.io/growlab-live/)
 
 An image, along with some sensor readings, is taken every 10 minutes and added here.
